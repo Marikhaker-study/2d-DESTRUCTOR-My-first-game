@@ -11,6 +11,12 @@ If he traps into a pit object - he dies, if he reaches the finish - he wins.
 The program has a home screen, a screen for victory and defeat screen.
 
 ///////////////
+GAMEPLAY
+///////////////
+
+![alt text](https://raw.githubusercontent.com/Marikhaker-study/2d-DESTRUCTOR-My-first-game/master/2d%20DESTRUCTOR%20gameplay%20.gif)
+
+///////////////
 INSTRUCTION
 ///////////////
 
