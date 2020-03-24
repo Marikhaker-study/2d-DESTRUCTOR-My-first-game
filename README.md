@@ -1,6 +1,7 @@
 ///////////////
 ABOUT GAME PROCESS
 ///////////////
+
 When game starts a map with random objects: pits and a finis, is generated.
 
 The character can move when the keyboard buttons are pressed.
