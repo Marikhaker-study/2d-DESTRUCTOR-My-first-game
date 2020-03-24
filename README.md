@@ -33,7 +33,7 @@ Good luck, champ.
 
 ///////////////
 
-P.S. This game is first game writen down by myself. 
+P.S. This game is first game written down by myself. 
 
 Game was made in 5 days without knowing anything about sfml, without idea of how the game 
 should look like and i barely could imagine how exactly game making by yourself looks and feels. 
