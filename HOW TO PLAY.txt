@@ -1,0 +1,13 @@
+HOW TO PLAY
+
+
+2d DESTRUCTOR!!!
+
+1) Use wasd key buttons to move
+2) When you collide red block -> you die
+3) When you collide green block -> you win
+
+P.S. You can move to the other side of the map 
+	like in the snake game//
+
+Good luck, champ.
